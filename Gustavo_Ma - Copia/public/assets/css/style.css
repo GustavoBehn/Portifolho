@@ -1,0 +1,19 @@
+.login-center {
+    background-color: rgba(44, 134, 252, 0.3);
+    border-radius: 2%;
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: 5%;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(50, 50, 50);
+}
+
+a {
+    cursor: pointer;
+}
